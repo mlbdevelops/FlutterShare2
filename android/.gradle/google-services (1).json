@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "211054084669",
+    "project_id": "vital-folder-360116",
+    "storage_bucket": "vital-folder-360116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211054084669:android:212c0370a8f89f7a78a054",
+        "android_client_info": {
+          "package_name": "com.mlb.beex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211054084669-m36k2vgm68cf3ilkjoiq4ghg5aton05c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYc4iABC1taG-J-ZgBCncedSWBqmk3AFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211054084669-m36k2vgm68cf3ilkjoiq4ghg5aton05c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211054084669-vnu5crq67mfvl5hocstajvnusk3kni7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mlb.blaizy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
